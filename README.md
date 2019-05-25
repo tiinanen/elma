@@ -73,7 +73,7 @@ with open('mylevel.lev', 'w') as f:
 
 ```
 virtualenv venv
-. venv/bin/acivate
+. venv/bin/activate
 make setup
 ```
 
