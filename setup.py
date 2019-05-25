@@ -13,6 +13,6 @@ setup(
     packages=['elma'],
     install_requires=[
         'flake8==3.3.0',
-        'pillow==4.0.0',
+        'pillow==6.0.0',
     ],
 )
