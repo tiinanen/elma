@@ -4,3 +4,4 @@ dist/
 elma.egg-info/
 venv/
 .*.swp
+.idea
